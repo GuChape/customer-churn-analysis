@@ -35,5 +35,9 @@ python main.py
 
 ## Insights obtidos
 - Clientes com contrato mensal apresentam maior taxa de cancelamento
-- Alto número de ligações ao call center está associado ao churn
+- Alto número de ligações ao call center está associado ao cancelamento
 - Atrasos no pagamento influenciam diretamente o cancelamento
+
+## Exemplo de visualização
+
+![Gráfico](screenshot.jpeg)
