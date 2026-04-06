@@ -1,7 +1,7 @@
 # Análise de Cancelamento de Clientes
 
 ## Descrição
-Este projeto realiza uma análise de dados para identificar padrões e possíveis causas de cancelamento de clientes (churn).
+Este projeto realiza uma análise de dados para identificar padrões e possíveis causas de cancelamento de clientes.
 
 ## Objetivo
 Identificar padrões de comportamento que levam ao cancelamento de clientes e propor possíveis ações para redução do churn.
