@@ -1,8 +1,5 @@
 import pandas as pd
 import plotly.express as px
-import plotly.io as pio
-
-pio.renderers.default = "vscode"
 
 
 tabela = pd.read_csv("cancelamentos.csv")
